@@ -6,6 +6,8 @@ import threading
 import paho.mqtt.client as mqtt
 import sys
 
+#Alunos: Lucas Silva Braga e Davi Vittore Loriato
+
 class DistributedMinerWithTimeout:
     def __init__(self, total_nodes, session_id=None, broker_host="broker.hivemq.com", broker_port=1883):
         self.total_nodes = total_nodes

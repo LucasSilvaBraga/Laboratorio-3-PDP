@@ -3,6 +3,8 @@ import time
 import sys
 import os
 
+#Alunos: Lucas Silva Braga e Davi Vittore Loriato
+
 def main():
     print("=" * 50)
     print("SISTEMA DISTRIBUÍDO - VERSÃO CORRIGIDA")
